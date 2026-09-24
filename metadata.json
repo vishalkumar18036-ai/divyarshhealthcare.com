@@ -1,0 +1,6 @@
+{
+  "name": "Divyarsh Health Care Institute",
+  "description": "NGO Regd. No. 191267 - Healthcare Services, Surgery Guidance & Patient Support Institute in Central Delhi, providing hospital guidance, cashless panel support, and health education.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
